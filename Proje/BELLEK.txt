@@ -1,0 +1,2 @@
+Kingston K_2_1333 5 43 DDR3 1333 2
+Kingston K_4_1600 6 82 DDR3 1600 4
